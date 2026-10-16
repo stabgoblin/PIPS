@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "name": "paths",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "main_road_north",
+        "type": "road",
+        "surface": "paved",
+        "width_meters": 6,
+        "notes": "Main campus road connecting academic and hostel zones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.1230, 28.5680],
+          [77.1235, 28.5680],
+          [77.1240, 28.5680],
+          [77.1245, 28.5680],
+          [77.1250, 28.5680]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "path_to_boys_hostel",
+        "type": "walkway",
+        "surface": "paved",
+        "width_meters": 2,
+        "notes": "Pedestrian path from main road to boys hostel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.1240, 28.5680],
+          [77.1240, 28.5685],
+          [77.1242, 28.5690]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "path_to_girls_hostel",
+        "type": "walkway",
+        "surface": "paved",
+        "width_meters": 2,
+        "notes": "Pedestrian path from main road to girls hostel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.1250, 28.5680],
+          [77.1250, 28.5685],
+          [77.1252, 28.5690]
+        ]
+      }
+    }
+  ]
+}

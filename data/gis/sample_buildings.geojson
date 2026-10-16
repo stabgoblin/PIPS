@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "name": "buildings",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main Academic Block",
+        "type": "academic",
+        "zone": "academic",
+        "capacity": 500,
+        "floors": 4,
+        "notes": "Primary lecture halls and labs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.1234, 28.5678],
+          [77.1238, 28.5678],
+          [77.1238, 28.5681],
+          [77.1234, 28.5681],
+          [77.1234, 28.5678]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boys Hostel A",
+        "type": "hostel_boys",
+        "zone": "residential_boys",
+        "capacity": 200,
+        "floors": 3,
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.1240, 28.5690],
+          [77.1244, 28.5690],
+          [77.1244, 28.5693],
+          [77.1240, 28.5693],
+          [77.1240, 28.5690]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Girls Hostel A",
+        "type": "hostel_girls",
+        "zone": "residential_girls",
+        "capacity": 200,
+        "floors": 3,
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.1250, 28.5690],
+          [77.1254, 28.5690],
+          [77.1254, 28.5693],
+          [77.1250, 28.5693],
+          [77.1250, 28.5690]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Mess",
+        "type": "mess",
+        "zone": "dining",
+        "capacity": 400,
+        "floors": 1,
+        "notes": "Shared dining hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.1245, 28.5685],
+          [77.1248, 28.5685],
+          [77.1248, 28.5687],
+          [77.1245, 28.5687],
+          [77.1245, 28.5685]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Admin Block",
+        "type": "admin",
+        "zone": "admin",
+        "capacity": 100,
+        "floors": 2,
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.1230, 28.5680],
+          [77.1233, 28.5680],
+          [77.1233, 28.5682],
+          [77.1230, 28.5682],
+          [77.1230, 28.5680]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sports Complex",
+        "type": "sports",
+        "zone": "recreation",
+        "capacity": 300,
+        "floors": 1,
+        "notes": "Gym and indoor courts"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.1220, 28.5695],
+          [77.1226, 28.5695],
+          [77.1226, 28.5700],
+          [77.1220, 28.5700],
+          [77.1220, 28.5695]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open Plot X",
+        "type": "open_land",
+        "zone": "undeveloped",
+        "capacity": 0,
+        "floors": 0,
+        "notes": "Potential construction site"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.1255, 28.5675],
+          [77.1260, 28.5675],
+          [77.1260, 28.5678],
+          [77.1255, 28.5678],
+          [77.1255, 28.5675]
+        ]]
+      }
+    }
+  ]
+}

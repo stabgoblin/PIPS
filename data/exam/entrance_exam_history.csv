@@ -1,0 +1,82 @@
+year,institute,course_id,course_name,department,national_exam_applicants,course_applicants,preference_share_pct,sanctioned_intake,seats_filled,fill_rate_pct,opening_rank,closing_rank,acceptance_rate_pct,applicants_per_seat
+2016,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CSE,Computer Science & Engineering,Computer Science,1194932,103242,8.64,92,92,100.0,950,6100,0.0891,1122.2
+2016,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ECE,Electronics & Communication Engineering,Electronics & Communication,1194932,78866,6.6,92,92,100.0,2100,10200,0.1167,857.2
+2016,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",EEE,Electrical & Electronics Engineering,Electrical & Electronics,1194932,61658,5.16,92,92,100.0,4200,16500,0.1492,670.2
+2016,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MECH,Mechanical Engineering,Mechanical Engineering,1194932,75400,6.31,105,105,100.0,5100,18200,0.1393,718.1
+2016,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CIVIL,Civil Engineering,Civil Engineering,1194932,56281,4.71,100,100,100.0,9200,27500,0.1777,562.8
+2016,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CHEM,Chemical Engineering,Chemical Engineering,1194932,47439,3.97,85,85,100.0,8500,26000,0.1792,558.1
+2016,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ICE,Instrumentation & Control Engineering,Instrumentation & Control,1194932,32383,2.71,85,85,100.0,7900,24200,0.2625,381.0
+2016,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",PROD,Production Engineering,Production Engineering,1194932,36804,3.08,80,80,100.0,12000,32000,0.2174,460.1
+2016,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MME,Metallurgical & Materials Engineering,Metallurgical & Materials,1194932,31427,2.63,60,60,100.0,13500,36000,0.1909,523.8
+2017,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CSE,Computer Science & Engineering,Computer Science,1186454,103162,8.695,95,95,100.0,909,5856,0.0921,1085.9
+2017,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ECE,Electronics & Communication Engineering,Electronics & Communication,1186454,87857,7.405,95,95,100.0,2069,9906,0.1081,924.8
+2017,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",EEE,Electrical & Electronics Engineering,Electrical & Electronics,1186454,63742,5.373,95,95,100.0,4162,16088,0.149,671.0
+2017,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MECH,Mechanical Engineering,Mechanical Engineering,1186454,79937,6.738,107,107,100.0,5312,18612,0.1339,747.1
+2017,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CIVIL,Civil Engineering,Civil Engineering,1186454,57039,4.808,102,102,100.0,9612,28375,0.1788,559.2
+2017,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CHEM,Chemical Engineering,Chemical Engineering,1186454,41793,3.522,88,88,100.0,8812,26650,0.2106,474.9
+2017,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ICE,Instrumentation & Control Engineering,Instrumentation & Control,1186454,32954,2.778,87,87,100.0,8012,24375,0.264,378.8
+2017,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",PROD,Production Engineering,Production Engineering,1186454,32509,2.74,83,83,100.0,12312,32862,0.2553,391.7
+2017,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MME,Metallurgical & Materials Engineering,Metallurgical & Materials,1186454,25034,2.11,64,64,100.0,13838,37062,0.2557,391.2
+2018,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CSE,Computer Science & Engineering,Computer Science,1135084,111806,9.85,99,99,100.0,868,5612,0.0885,1129.4
+2018,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ECE,Electronics & Communication Engineering,Electronics & Communication,1135084,81045,7.14,99,99,100.0,2038,9612,0.1222,818.6
+2018,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",EEE,Electrical & Electronics Engineering,Electrical & Electronics,1135084,59762,5.265,98,98,100.0,4125,15675,0.164,609.8
+2018,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MECH,Mechanical Engineering,Mechanical Engineering,1135084,64075,5.645,109,109,100.0,5525,19025,0.1701,587.8
+2018,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CIVIL,Civil Engineering,Civil Engineering,1135084,44212,3.895,104,104,100.0,10025,29250,0.2352,425.1
+2018,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CHEM,Chemical Engineering,Chemical Engineering,1135084,46595,4.105,90,90,100.0,9125,27300,0.1932,517.7
+2018,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ICE,Instrumentation & Control Engineering,Instrumentation & Control,1135084,37174,3.275,90,90,100.0,8125,24550,0.2421,413.0
+2018,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",PROD,Production Engineering,Production Engineering,1135084,30534,2.69,86,86,100.0,12625,33725,0.2817,355.0
+2018,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MME,Metallurgical & Materials Engineering,Metallurgical & Materials,1135084,20659,1.82,68,68,100.0,14175,38125,0.3292,303.8
+2019,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CSE,Computer Science & Engineering,Computer Science,1147125,118555,10.335,102,102,100.0,826,5369,0.086,1162.3
+2019,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ECE,Electronics & Communication Engineering,Electronics & Communication,1147125,92401,8.055,102,102,100.0,2006,9319,0.1104,905.9
+2019,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",EEE,Electrical & Electronics Engineering,Electrical & Electronics,1147125,62490,5.448,101,101,100.0,4088,15262,0.1616,618.7
+2019,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MECH,Mechanical Engineering,Mechanical Engineering,1147125,61744,5.383,111,111,100.0,5738,19438,0.1798,556.3
+2019,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CIVIL,Civil Engineering,Civil Engineering,1147125,51649,4.503,107,107,100.0,10438,30125,0.2072,482.7
+2019,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CHEM,Chemical Engineering,Chemical Engineering,1147125,45512,3.967,92,92,100.0,9438,27950,0.2021,494.7
+2019,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ICE,Instrumentation & Control Engineering,Instrumentation & Control,1147125,42587,3.713,92,92,100.0,8238,24725,0.216,462.9
+2019,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",PROD,Production Engineering,Production Engineering,1147125,36020,3.14,88,88,100.0,12938,34588,0.2443,409.3
+2019,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MME,Metallurgical & Materials Engineering,Metallurgical & Materials,1147125,24090,2.1,72,72,100.0,14512,39188,0.2989,334.6
+2020,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CSE,Computer Science & Engineering,Computer Science,1023000,116622,11.4,106,105,99.1,785,5125,0.09,1100.2
+2020,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ECE,Electronics & Communication Engineering,Electronics & Communication,1023000,85932,8.4,106,105,99.1,1975,9025,0.1222,810.7
+2020,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",EEE,Electrical & Electronics Engineering,Electrical & Electronics,1023000,59641,5.83,104,103,99.0,4050,14850,0.1727,573.5
+2020,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MECH,Mechanical Engineering,Mechanical Engineering,1023000,55549,5.43,112,111,99.1,5950,19850,0.1998,496.0
+2020,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CIVIL,Civil Engineering,Civil Engineering,1023000,42864,4.19,109,108,99.1,10850,31000,0.252,393.2
+2020,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CHEM,Chemical Engineering,Chemical Engineering,1023000,32941,3.22,95,94,98.9,9750,28600,0.2854,346.7
+2020,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ICE,Instrumentation & Control Engineering,Instrumentation & Control,1023000,35396,3.46,94,93,98.9,8350,24900,0.2627,376.6
+2020,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",PROD,Production Engineering,Production Engineering,1023000,29667,2.9,91,90,98.9,13250,35450,0.3034,326.0
+2020,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MME,Metallurgical & Materials Engineering,Metallurgical & Materials,1023000,19642,1.92,76,75,98.7,14850,40250,0.3818,258.4
+2021,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CSE,Computer Science & Engineering,Computer Science,939008,115357,12.285,109,109,100.0,744,4881,0.0945,1058.3
+2021,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ECE,Electronics & Communication Engineering,Electronics & Communication,939008,77609,8.265,109,109,100.0,1944,8731,0.1404,712.0
+2021,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",EEE,Electrical & Electronics Engineering,Electrical & Electronics,939008,56270,5.992,106,106,100.0,4012,14438,0.1884,530.8
+2021,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MECH,Mechanical Engineering,Mechanical Engineering,939008,52185,5.558,114,114,100.0,6162,20262,0.2185,457.8
+2021,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CIVIL,Civil Engineering,Civil Engineering,939008,34063,3.627,111,111,100.0,11262,31875,0.3259,306.9
+2021,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CHEM,Chemical Engineering,Chemical Engineering,939008,35236,3.753,98,98,100.0,10062,29250,0.2781,359.6
+2021,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ICE,Instrumentation & Control Engineering,Instrumentation & Control,939008,30025,3.198,97,97,100.0,8462,25075,0.3231,309.5
+2021,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",PROD,Production Engineering,Production Engineering,939008,27325,2.91,94,94,100.0,13562,36312,0.344,290.7
+2021,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MME,Metallurgical & Materials Engineering,Metallurgical & Materials,939008,16808,1.79,80,80,100.0,15188,41312,0.476,210.1
+2022,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CSE,Computer Science & Engineering,Computer Science,1026799,130609,12.72,112,112,100.0,702,4638,0.0858,1166.2
+2022,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ECE,Electronics & Communication Engineering,Electronics & Communication,1026799,93952,9.15,112,112,100.0,1912,8438,0.1192,838.9
+2022,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",EEE,Electrical & Electronics Engineering,Electrical & Electronics,1026799,58887,5.735,109,109,100.0,3975,14025,0.1851,540.2
+2022,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MECH,Mechanical Engineering,Mechanical Engineering,1026799,54882,5.345,116,116,100.0,6375,20675,0.2114,473.1
+2022,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CIVIL,Civil Engineering,Civil Engineering,1026799,36092,3.515,114,114,100.0,11675,32750,0.3159,316.6
+2022,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CHEM,Chemical Engineering,Chemical Engineering,1026799,37016,3.605,100,100,100.0,10375,29900,0.2702,370.2
+2022,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ICE,Instrumentation & Control Engineering,Instrumentation & Control,1026799,32498,3.165,99,99,100.0,8575,25250,0.3046,328.3
+2022,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",PROD,Production Engineering,Production Engineering,1026799,29983,2.92,96,96,100.0,13875,37175,0.3202,312.3
+2022,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MME,Metallurgical & Materials Engineering,Metallurgical & Materials,1026799,24232,2.36,84,84,100.0,15525,42375,0.3466,288.5
+2023,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CSE,Computer Science & Engineering,Computer Science,1162398,157912,13.585,116,116,100.0,661,4394,0.0735,1361.3
+2023,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ECE,Electronics & Communication Engineering,Electronics & Communication,1162398,105139,9.045,116,116,100.0,1881,8144,0.1103,906.4
+2023,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",EEE,Electrical & Electronics Engineering,Electrical & Electronics,1162398,77154,6.638,112,112,100.0,3938,13612,0.1452,688.9
+2023,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MECH,Mechanical Engineering,Mechanical Engineering,1162398,55940,4.812,118,118,100.0,6588,21088,0.2109,474.1
+2023,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CIVIL,Civil Engineering,Civil Engineering,1162398,38272,3.293,116,116,100.0,12088,33625,0.3031,329.9
+2023,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CHEM,Chemical Engineering,Chemical Engineering,1162398,36122,3.108,102,102,100.0,10688,30550,0.2824,354.1
+2023,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ICE,Instrumentation & Control Engineering,Instrumentation & Control,1162398,38853,3.343,102,102,100.0,8688,25425,0.2625,380.9
+2023,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",PROD,Production Engineering,Production Engineering,1162398,31850,2.74,99,99,100.0,14188,38038,0.3108,321.7
+2023,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MME,Metallurgical & Materials Engineering,Metallurgical & Materials,1162398,19993,1.72,88,88,100.0,15862,43438,0.4402,227.2
+2024,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CSE,Computer Science & Engineering,Computer Science,1415110,193729,13.69,119,119,100.0,620,4150,0.0614,1628.0
+2024,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ECE,Electronics & Communication Engineering,Electronics & Communication,1415110,134577,9.51,119,119,100.0,1850,7850,0.0884,1130.9
+2024,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",EEE,Electrical & Electronics Engineering,Electrical & Electronics,1415110,88586,6.26,115,115,100.0,3900,13200,0.1298,770.3
+2024,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MECH,Mechanical Engineering,Mechanical Engineering,1415110,74718,5.28,120,120,100.0,6800,21500,0.1606,622.6
+2024,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CIVIL,Civil Engineering,Civil Engineering,1415110,45142,3.19,118,118,100.0,12500,34500,0.2614,382.6
+2024,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",CHEM,Chemical Engineering,Chemical Engineering,1415110,50095,3.54,105,105,100.0,11000,31200,0.2096,477.1
+2024,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",ICE,Instrumentation & Control Engineering,Instrumentation & Control,1415110,55331,3.91,104,104,100.0,8800,25600,0.188,532.0
+2024,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",PROD,Production Engineering,Production Engineering,1415110,29717,2.1,102,102,100.0,14500,38900,0.3432,291.3
+2024,"National Institute of Technology, Tiruchirappalli (NIT Trichy)",MME,Metallurgical & Materials Engineering,Metallurgical & Materials,1415110,23632,1.67,92,92,100.0,16200,44500,0.3893,256.9

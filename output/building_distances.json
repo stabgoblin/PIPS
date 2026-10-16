@@ -1,0 +1,35 @@
+{
+  "Main Academic Block": {
+    "Main Academic Block": 0,
+    "Admin Block": 155.5,
+    "Boys Hostel A": 170.7,
+    "Girls Hostel A": 268.3
+  },
+  "Boys Hostel A": {
+    "Boys Hostel A": 0,
+    "Main Academic Block": 170.7,
+    "Admin Block": 247.3,
+    "Girls Hostel A": 360.1
+  },
+  "Girls Hostel A": {
+    "Girls Hostel A": 0,
+    "Main Academic Block": 268.3,
+    "Admin Block": 344.9,
+    "Boys Hostel A": 360.1
+  },
+  "Central Mess": {
+    "Central Mess": 0
+  },
+  "Admin Block": {
+    "Admin Block": 0,
+    "Main Academic Block": 155.5,
+    "Boys Hostel A": 247.3,
+    "Girls Hostel A": 344.9
+  },
+  "Sports Complex": {
+    "Sports Complex": 0
+  },
+  "Open Plot X": {
+    "Open Plot X": 0
+  }
+}

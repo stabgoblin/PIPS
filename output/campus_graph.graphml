@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="node" attr.name="node_type" attr.type="string"/>
+<key id="d3" for="node" attr.name="capacity" attr.type="long"/>
+<key id="d2" for="node" attr.name="zone" attr.type="string"/>
+<key id="d1" for="node" attr.name="btype" attr.type="string"/>
+<key id="d0" for="node" attr.name="pos" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Main Academic Block">
+  <data key="d0">77.1236,28.56795</data>
+  <data key="d1">academic</data>
+  <data key="d2">academic</data>
+  <data key="d3">500</data>
+  <data key="d4">building</data>
+</node>
+<node id="Boys Hostel A">
+  <data key="d0">77.12419999999999,28.56915</data>
+  <data key="d1">hostel_boys</data>
+  <data key="d2">residential_boys</data>
+  <data key="d3">200</data>
+  <data key="d4">building</data>
+</node>
+<node id="Girls Hostel A">
+  <data key="d0">77.1252,28.56915</data>
+  <data key="d1">hostel_girls</data>
+  <data key="d2">residential_girls</data>
+  <data key="d3">200</data>
+  <data key="d4">building</data>
+</node>
+<node id="Central Mess">
+  <data key="d0">77.12465,28.568600000000004</data>
+  <data key="d1">mess</data>
+  <data key="d2">dining</data>
+  <data key="d3">400</data>
+  <data key="d4">building</data>
+</node>
+<node id="Admin Block">
+  <data key="d0">77.12315,28.568099999999998</data>
+  <data key="d1">admin</data>
+  <data key="d2">admin</data>
+  <data key="d3">100</data>
+  <data key="d4">building</data>
+</node>
+<node id="Sports Complex">
+  <data key="d0">77.12230000000001,28.569749999999996</data>
+  <data key="d1">sports</data>
+  <data key="d2">recreation</data>
+  <data key="d3">300</data>
+  <data key="d4">building</data>
+</node>
+<node id="Open Plot X">
+  <data key="d0">77.12575000000001,28.567649999999997</data>
+  <data key="d1">open_land</data>
+  <data key="d2">undeveloped</data>
+  <data key="d3">0</data>
+  <data key="d4">building</data>
+</node>
+<node id="junction_77.1230000_28.5680000">
+  <data key="d0">77.123,28.568</data>
+  <data key="d4">junction</data>
+</node>
+<node id="junction_77.1235000_28.5680000">
+  <data key="d0">77.1235,28.568</data>
+  <data key="d4">junction</data>
+</node>
+<node id="junction_77.1240000_28.5680000">
+  <data key="d0">77.124,28.568</data>
+  <data key="d4">junction</data>
+</node>
+<node id="junction_77.1245000_28.5680000">
+  <data key="d0">77.1245,28.568</data>
+  <data key="d4">junction</data>
+</node>
+<node id="junction_77.1250000_28.5680000">
+  <data key="d0">77.125,28.568</data>
+  <data key="d4">junction</data>
+</node>
+<node id="junction_77.1240000_28.5685000">
+  <data key="d0">77.124,28.5685</data>
+  <data key="d4">junction</data>
+</node>
+<node id="junction_77.1242000_28.5690000">
+  <data key="d0">77.1242,28.569</data>
+  <data key="d4">junction</data>
+</node>
+<node id="junction_77.1250000_28.5685000">
+  <data key="d0">77.125,28.5685</data>
+  <data key="d4">junction</data>
+</node>
+<node id="junction_77.1252000_28.5690000">
+  <data key="d0">77.1252,28.569</data>
+  <data key="d4">junction</data>
+</node>
+<edge source="Main Academic Block" target="junction_77.1240000_28.5680000">
+  <data key="d5">39.4564667722067</data>
+  <data key="d6">access</data>
+</edge>
+<edge source="Boys Hostel A" target="junction_77.1242000_28.5690000">
+  <data key="d5">16.67923899685253</data>
+  <data key="d6">access</data>
+</edge>
+<edge source="Girls Hostel A" target="junction_77.1252000_28.5690000">
+  <data key="d5">16.67923899685253</data>
+  <data key="d6">access</data>
+</edge>
+<edge source="Admin Block" target="junction_77.1230000_28.5680000">
+  <data key="d5">18.39083409389546</data>
+  <data key="d6">access</data>
+</edge>
+<edge source="junction_77.1230000_28.5680000" target="junction_77.1235000_28.5680000">
+  <data key="d5">48.8284827517315</data>
+  <data key="d6">road</data>
+</edge>
+<edge source="junction_77.1235000_28.5680000" target="junction_77.1240000_28.5680000">
+  <data key="d5">48.82848275048909</data>
+  <data key="d6">road</data>
+</edge>
+<edge source="junction_77.1240000_28.5680000" target="junction_77.1245000_28.5680000">
+  <data key="d5">48.82848275048909</data>
+  <data key="d6">road</data>
+</edge>
+<edge source="junction_77.1240000_28.5680000" target="junction_77.1240000_28.5685000">
+  <data key="d5">55.59746332213443</data>
+  <data key="d6">walkway</data>
+</edge>
+<edge source="junction_77.1245000_28.5680000" target="junction_77.1250000_28.5680000">
+  <data key="d5">48.8284827517315</data>
+  <data key="d6">road</data>
+</edge>
+<edge source="junction_77.1250000_28.5680000" target="junction_77.1250000_28.5685000">
+  <data key="d5">55.59746332213443</data>
+  <data key="d6">walkway</data>
+</edge>
+<edge source="junction_77.1240000_28.5685000" target="junction_77.1242000_28.5690000">
+  <data key="d5">58.928327707512906</data>
+  <data key="d6">walkway</data>
+</edge>
+<edge source="junction_77.1250000_28.5685000" target="junction_77.1252000_28.5690000">
+  <data key="d5">58.928327707924694</data>
+  <data key="d6">walkway</data>
+</edge>
+</graph></graphml>
